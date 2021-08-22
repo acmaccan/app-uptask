@@ -1,6 +1,6 @@
 # app-uptask
 
-» Fecha: 2021.06.09<br/><br/>
+» Fecha: 2021.06.09.<br/><br/>
 » Proyecto: Aplicación web para gestión de tareas.<br/><br/>
 » Desarrollada con Node.js, Axios, bcrypt-nodejs, concurrently, connect-flash, cookie-parser, dotenv, express, express-session, express-validator, html-to-text, juice, mysql2, nodemailer, passport, passport-local, pug, sequelize, shortid, slug, sweetalert2.
 Utilizando Nodemon, Webpack, Babel, Tableplus, Mailtrap. Git y Heroku.<br/><br/>
